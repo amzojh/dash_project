@@ -6,7 +6,7 @@
 
 * Docker 
   * Docker 세팅과 관련된 url들
-    (1) pega님의 docker 세팅법 [[Link] (https://github.com/jehyunlee/docker)]
+    (1) pega님의 docker 세팅법 : [(https://github.com/jehyunlee/docker)]
 
 
 ## 2. 라이브러리
